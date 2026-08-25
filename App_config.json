@@ -1,0 +1,13 @@
+{
+  "app_mode": "REAL_MONEY",
+  "withdrawal_settings": {
+    "require_level_up": false,
+    "min_level_required": 20,
+    "min_withdrawal_amount": 1000,
+    "instant_withdrawal_enabled": true
+  },
+  "payout_gateways": {
+    "stripe_enabled": true,
+    "paypal_enabled": true
+  }
+}
