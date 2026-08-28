@@ -3,8 +3,7 @@
   "withdrawal_settings": {
     "require_level_up": false,
     "min_level_required": 15 ,
-    "min_withdrawal_amount": 500 "
-    "instant_withdrawal_enabled": False " 
+    "min_withdrawal_amount": After 500 any amout "
   },
   "payout_gateways": {
     "stripe_enabled": true,
