@@ -3,14 +3,14 @@
   "withdrawal_settings": {
     "require_level_up": false,
     "min_level_required": 15 ,
-    "min_withdrawal_amount": 500"
-    "instant_withdrawal_enabled": False" 
+    "min_withdrawal_amount": 500 "
+    "instant_withdrawal_enabled": False " 
   },
   "payout_gateways": {
     "stripe_enabled": true,
     "paypal_enabled": true
   }"No need to wait any task to complete "
-"Just change source and action of app 
+"Just change source and action of app " 
 "No need any permissions for changes" 
 "complete it and refresh it" 
 "app URL" "https://play.google.com/store/apps/details?id=dragon.rush.rich.rdrslot"
